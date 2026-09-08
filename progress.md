@@ -74,8 +74,9 @@
 - 笔记：[notes/week-09-economics-router.md](notes/week-09-economics-router.md)
 
 ## Week 10: Publish
-- [ ] Mon. 起草 writeup，过 checklist
-- [ ] Tue. 补变体、钉版本、发布
-- [ ] Wed. 建立每周阅读习惯
-- [ ] Thu. 第一次习惯 session
-- [ ] Fri. （可选）边缘端 sampler
+- [x] Mon. 起草 writeup，过 checklist ✅ 8 条全过（笔记 §1）
+- [x] Tue. 补变体、钉版本、发布 ✅ **已发布公开仓库 https://github.com/cypggs/llm-inference-mastery**
+- [x] Wed. 建立每周阅读习惯（笔记 §2 信息源分层）
+- [x] Thu. 第一次习惯 session（笔记 §2 流程：10min 扫题+15min 深读+5min 三行笔记）
+- [x] Fri. （可选）边缘端 sampler — 跳过（与主栈无关）
+- 笔记：[notes/week-10-publish.md](notes/week-10-publish.md)
